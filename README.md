@@ -66,10 +66,14 @@ code
 Bash
 python -m streamlit run app.py
 
+# 🌐 Nexus Analytics Engine v16.0
+> **Live Demo:** [🚀 Click here to access the Dashboard](https://nec-major-project1-nexus-analytics-engine.onrender.com)
+
 🌟 The "WOW" Factor
 High-Speed AI: Answers from the AI Advisor are generated in milliseconds using Groq.
 Unstoppable Backend: The 10-key rotation logic prevents any API downtime during live demos.
 Visual Richness: Every module contains at least one Table, one Pie Chart, and one Advanced Graph (3D/Radar/Gauge).
 Enterprise Design: The UI mimics premium modern fintech applications.
+
 Developed by [Shaik Ahammad Bi]
 Nexus Analytics Engine v16.0 - Transforming Data into Strategy.
