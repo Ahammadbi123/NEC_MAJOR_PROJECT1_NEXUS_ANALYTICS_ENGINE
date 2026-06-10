@@ -1,6 +1,6 @@
-🌐 Nexus Analytics Engine v16.0
+#🌐 Nexus Analytics Engine v16.0
 
-
+----------
 Next-Gen AI-Driven Customer Intelligence & Prediction Suite
 Nexus Analytics Engine is a sophisticated, enterprise-grade SaaS platform designed to transform raw customer data into actionable business intelligence. Leveraging high-performance Machine Learning models and the world's fastest Generative AI engine (Groq LPU), this system provides a 360-degree view of customer behavior, risk, and growth potential.
 🚀 Core Features (9 Integrated Modules)
@@ -40,7 +40,7 @@ Master Directory: Full-scale database explorer for deep-dive reporting.
 Generative Intelligence: Integrated with Groq LPU (Llama 3.3 70B) for lightning-fast business consulting.
 Key Rotation Logic: Implemented a 10-node API rotation system to ensure 100% uptime and bypass rate limits.
 Business Consultant: Professional business strategy generation based on live dashboard data.
-
+----------
 🛠️ Technology Stack
 Frontend UI: Streamlit (Custom Glassmorphism/Dark Neon Theme)
 Language: Python 3.14
@@ -48,7 +48,7 @@ Visualizations: Plotly Pro (3D, Sunburst, Treemaps, Radar, Gauges)
 Data Processing: Pandas, NumPy
 Machine Learning: Scikit-Learn (Random Forest, K-Means Clustering)
 AI Inference: Groq LPU (The World's Fastest AI Engine)
-
+----------------------
 ⚙️ Installation & Setup
 Clone the Repository:
 code
@@ -68,15 +68,15 @@ code
 Bash
 python -m streamlit run app.py
 
-> **Live Demo:** [🚀 Click here to access the Dashboard](https://nec-major-project1-nexus-analytics-engine.onrender.co
-
-
-
 🌟 The "WOW" Factor
 High-Speed AI: Answers from the AI Advisor are generated in milliseconds using Groq.
 Unstoppable Backend: The 10-key rotation logic prevents any API downtime during live demos.
 Visual Richness: Every module contains at least one Table, one Pie Chart, and one Advanced Graph (3D/Radar/Gauge).
 Enterprise Design: The UI mimics premium modern fintech applications.
+
+
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Render-brightgreen?style=for-the-badge&logo=render)](https://nec-major-project1-nexus-analytics-engine.onrender.com)
 
 Developed by [Shaik Ahammad Bi]
 Nexus Analytics Engine v16.0 - Transforming Data into Strategy.
