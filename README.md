@@ -37,6 +37,8 @@ Start the Nexus Command Center dashboard:
 python -m streamlit run app.py
 
 ----
+
+
 ## 📂 Project Structure
 **app.py:** The central enterprise dashboard and controller.
 **src/genai_utils.py:** AI logic with 10-node API key rotation system.
@@ -45,6 +47,8 @@ python -m streamlit run app.py
 **data/:** Directory containing the master CSV database.
 **models/:** Storage for serialized ML models (.pkl files).
 **.env:** Secured repository for API keys.
+
+
 ---
 ## 📊 Performance & Accuracy
 
@@ -56,9 +60,13 @@ System Uptime: 100% via Circular Key Rotation logic.
 
 ----
 ## 🌟 The "WOW" Factor
+
+
 Ultra-Fast AI: Business strategies generated in milliseconds using Groq LPUs.
 Visual Overload: Every module contains a minimum of 1 Table, 1 Pie Chart, and 1 Advanced Visual (3D/Gauge/Radar).
 Enterprise UI: Custom Dark-Neon Glassmorphism design for a premium feel.
+
+
 ---------
 
 
