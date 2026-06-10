@@ -24,32 +24,36 @@ Nexus Analytics Engine is a sophisticated, enterprise-grade SaaS platform design
 ### **1. Environment Setup**
 Install the required Python libraries:
 
+
 pip install streamlit pandas plotly scikit-learn groq python-dotenv requests
-2. Dataset Generation
+**2.Dataset Generation**
 Prepare the initial customer data for analysis:
 python src/data_generator.py
-3. Training the AI Models
+**3.Training the AI Models**
 Train the Machine Learning models (K-Means & Random Forest):
 python src/ml_engine.py
-4. Launching the Application
+**4.Launching the Application**
 Start the Nexus Command Center dashboard:
 python -m streamlit run app.py
+
 ----
 ## 📂 Project Structure
-app.py: The central enterprise dashboard and controller.
-src/genai_utils.py: AI logic with 10-node API key rotation system.
-src/ml_engine.py: Core Machine Learning training script.
-src/data_generator.py: Synthetic dataset generator for 1000+ records.
-data/: Directory containing the master CSV database.
-models/: Storage for serialized ML models (.pkl files).
-.env: Secured repository for API keys.
+**app.py:** The central enterprise dashboard and controller.
+**src/genai_utils.py:** AI logic with 10-node API key rotation system.
+**src/ml_engine.py:** Core Machine Learning training script.
+**src/data_generator.py:** Synthetic dataset generator for 1000+ records.
+**data/:** Directory containing the master CSV database.
+**models/:** Storage for serialized ML models (.pkl files).
+**.env:** Secured repository for API keys.
 ---
 ## 📊 Performance & Accuracy
+
 By integrating High-Performance ML with Real-time Data processing:
 Churn Prediction: ~85% - 90% ML Accuracy.
 Clustering: Optimized via Elbow Method (K=5).
 AI Speed: Sub-second inference powered by Groq LPU.
 System Uptime: 100% via Circular Key Rotation logic.
+
 ----
 ## 🌟 The "WOW" Factor
 Ultra-Fast AI: Business strategies generated in milliseconds using Groq LPUs.
