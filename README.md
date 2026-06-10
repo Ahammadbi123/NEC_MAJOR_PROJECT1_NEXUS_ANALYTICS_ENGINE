@@ -34,7 +34,8 @@ python src/ml_engine.py
 4. Launching the Application
 Start the Nexus Command Center dashboard:
 python -m streamlit run app.py
-📂 Project Structure
+----
+## 📂 Project Structure
 app.py: The central enterprise dashboard and controller.
 src/genai_utils.py: AI logic with 10-node API key rotation system.
 src/ml_engine.py: Core Machine Learning training script.
@@ -42,17 +43,19 @@ src/data_generator.py: Synthetic dataset generator for 1000+ records.
 data/: Directory containing the master CSV database.
 models/: Storage for serialized ML models (.pkl files).
 .env: Secured repository for API keys.
-📊 Performance & Accuracy
+---
+## 📊 Performance & Accuracy
 By integrating High-Performance ML with Real-time Data processing:
 Churn Prediction: ~85% - 90% ML Accuracy.
 Clustering: Optimized via Elbow Method (K=5).
 AI Speed: Sub-second inference powered by Groq LPU.
 System Uptime: 100% via Circular Key Rotation logic.
-🌟 The "WOW" Factor
+----
+## 🌟 The "WOW" Factor
 Ultra-Fast AI: Business strategies generated in milliseconds using Groq LPUs.
 Visual Overload: Every module contains a minimum of 1 Table, 1 Pie Chart, and 1 Advanced Visual (3D/Gauge/Radar).
 Enterprise UI: Custom Dark-Neon Glassmorphism design for a premium feel.
-
+---------
 
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Render-brightgreen?style=for-the-badge&logo=render)](https://nec-major-project1-nexus-analytics-engine.onrender.com)
