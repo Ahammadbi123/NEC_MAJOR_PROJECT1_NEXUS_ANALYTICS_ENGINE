@@ -1,5 +1,5 @@
 🌐 Nexus Analytics Engine v16.0
-> **Live Demo:** [🚀 Click here to access the Dashboard](https://nec-major-project1-nexus-analytics-engine.onrender.co
+
 
 Next-Gen AI-Driven Customer Intelligence & Prediction Suite
 Nexus Analytics Engine is a sophisticated, enterprise-grade SaaS platform designed to transform raw customer data into actionable business intelligence. Leveraging high-performance Machine Learning models and the world's fastest Generative AI engine (Groq LPU), this system provides a 360-degree view of customer behavior, risk, and growth potential.
@@ -67,6 +67,8 @@ Launch the Dashboard:
 code
 Bash
 python -m streamlit run app.py
+
+> **Live Demo:** [🚀 Click here to access the Dashboard](https://nec-major-project1-nexus-analytics-engine.onrender.co
 
 
 
