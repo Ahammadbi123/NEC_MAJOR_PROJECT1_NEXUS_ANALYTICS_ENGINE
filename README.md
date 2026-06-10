@@ -23,7 +23,7 @@ Nexus Analytics Engine is a sophisticated, enterprise-grade SaaS platform design
 
 ### **1. Environment Setup**
 Install the required Python libraries:
-```bash
+
 pip install streamlit pandas plotly scikit-learn groq python-dotenv requests
 2. Dataset Generation
 Prepare the initial customer data for analysis:
